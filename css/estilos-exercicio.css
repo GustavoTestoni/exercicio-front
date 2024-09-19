@@ -1,0 +1,107 @@
+h1 {
+    text-shadow: turquoise 3px 3px;
+    border: 6px;
+    color: skyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    background-color: brown;
+    text-transform: uppercase;
+    text-shadow: 28px;
+    padding: 10px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 12px;
+    background-color: rgb(13, 82, 209);
+    text-align: center;
+    color: darkred
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+    background-color: darkblue;
+}
+
+hr {
+
+    background-color: rgba(156, 36, 6, 0.815);
+    height: 12px;
+    margin: 14px;
+    padding: 3px;
+}
+
+.sombra {
+    text-shadow: 8px 8px 10px red;
+}
+
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.container {
+    box-shadow: darkblue;
+    margin: auto;
+    max-width: 330;
+    color: dodgerblue;
+    background: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+
+.container1 {
+    background-color: rgb(94, 142, 231);
+    text-transform: uppercase;
+}
+
+.box {
+    background-color: black;
+    padding: 4px;
+    margin: 16px 0;
+    border: 6px solid #ccc;
+
+}
+
+
+.box p {
+    color: darkturquoise;
+
+
+
+}
+
+.box h2 {
+    text-align: center;
+    color: darkcyan;
+    font-weight: 36px;
+    font-size: 36px;
+    background-color: darkred;
+}
+
+a {
+    color: aquamarine;
+}
+
+ul li {
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol {
+    color: rgb(29, 89, 201);
+}
+
+figure {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+figcaption {
+    color: mediumblue;
+    text-transform: ;
+}
